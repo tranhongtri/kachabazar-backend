@@ -1,0 +1,162 @@
+[
+  {
+    "_id": {
+      "$oid": "627f4a88ad4c4b1a200c9f55"
+    },
+    "password": "$2a$10$/lujQApLZkc7418GqUiEguCHlU8A15NzAusX5WpO39gMhh06JW4Uy",
+    "name": "Alamgir",
+    "email": "alamgir@gmail.com",
+    "cname": "ahossain",
+    "role": "Admin"
+  },
+  {
+    "_id": {
+      "$oid": "6280d1f6965c51760a720949"
+    },
+    "password": "$2a$10$j8PDPOhvInzRbwjYrv9I7eg65IYT4HL82Q7MmgRgfnsvN/5zat/KG",
+    "name": "Alamgir Hossain",
+    "cname": "ahossain1",
+    "email": "alamgir1@gmail.com",
+    "role": "Admin",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1652609526149"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1653117569437"
+      }
+    },
+    "pos_status": "Active"
+  },
+  {
+    "_id": {
+      "$oid": "6285d2f805c88823f1df8d89"
+    },
+    "password": "$2a$10$lHRZaIi2BSfosU5oSGbW/OTTRrjINVgbUKqqIUJL09pklPuwOoG2q",
+    "name": "Alamgir",
+    "email": "mosalah@gmail.com",
+    "cname": "alamgirh",
+    "role": "Admin",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1652937464970"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1653211927823"
+      }
+    },
+    "pos_status": "Inactive",
+    "shop_status": "Inactive",
+    "image": "https://res.cloudinary.com/ahossain/image/upload/v1653211781/viulxsh8keuzund94eom.jpg",
+    "joiningData": {
+      "$date": {
+        "$numberLong": "1648805340000"
+      }
+    },
+    "phone": "01957930034"
+  },
+  {
+    "_id": {
+      "$oid": "6285f4ecd856223f100c6b72"
+    },
+    "password": "$2a$10$Z3rDYyHu./lTKTqlRF72mu3tZ1o7Q9/fF5EhfWEr23dhzIbXhklN2",
+    "name": "Mo Salah",
+    "email": "salah@gmail.com",
+    "cname": "salah",
+    "role": "Admin",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1652946156579"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1653117333112"
+      }
+    },
+    "pos_status": "Inactive"
+  },
+  {
+    "_id": {
+      "$oid": "6285f5e360666d3ff8e23acd"
+    },
+    "password": "$2a$10$AyDysYGaMe.JCGLJ803KU.oHAzcalD4JAJqlH4Eov089P0d5J.6Rq",
+    "name": "Sadio Mane",
+    "email": "sadio@gmail.com",
+    "cname": "sadio",
+    "role": "Admin",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1652946403733"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1653117681024"
+      }
+    },
+    "pos_status": "Inactive",
+    "shop_status": "Inactive"
+  },
+  {
+    "_id": {
+      "$oid": "62193dbb9cc0ab2feb42aa30"
+    },
+    "name": "dashtar",
+    "email": "dashtar@gmail.com",
+    "role": "SuperAdmin",
+    "cname": "dashtar",
+    "password": "$2a$10$SPXzslVpeqTCDzb46kC6KumCDLrq56PUGCQddVwrvX3gupz3JQexG",
+    "phone": "828-896-3442",
+    "createdAt": "2022-02-25T20:36:11.720+00:00",
+    "updatedAt": "2022-02-25T20:36:11.720+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "628a0029e500514d39754a6c"
+    },
+    "password": "$2a$10$0uI2BCBb9wko0IMVSF/qS.tBvc5.ulWFICRVsh9vaT/iHov1zBv/e",
+    "role": "Admin",
+    "shop_status": "Active",
+    "pos_status": "Active",
+    "name": "Sadio Mane",
+    "email": "sadiomane@gmail.com",
+    "cname": "sadiomane",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1653211177357"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1653211177357"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "628a0af53a761551a5bb33b1"
+    },
+    "password": "$2a$10$SYO6X.1OkAALEMjgvmQTIuzyBvNMhfiqjCschMDNZTMXQxdJoQZhm",
+    "role": "Admin",
+    "shop_status": "Active",
+    "pos_status": "Active",
+    "name": "Alamgir Hossain",
+    "email": "alamgirh@gmail.com",
+    "cname": "alamgir",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1653213941143"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1653213941143"
+      }
+    }
+  }
+]

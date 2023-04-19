@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "643970d0e58a401b6c62c755"
+  },
+  "status": "show",
+  "title": {
+    "en": "RAMADAN23 TWO"
+  },
+  "couponCode": "RAMADAN23TWO",
+  "endTime": {
+    "$date": "2023-05-31T20:19:00.000Z"
+  },
+  "minimumAmount": 1500,
+  "productType": "Grocery",
+  "logo": "https://i.ibb.co/wBBYm7j/ins4.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-04-14T15:27:12.915Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-14T15:30:15.759Z"
+  },
+  "discountType": {
+    "type": "fixed",
+    "value": 100
+  }
+},{
+  "_id": {
+    "$oid": "643970d0e58a401b6c62c756"
+  },
+  "status": "show",
+  "title": {
+    "en": "RAMADAN23"
+  },
+  "couponCode": "RAMADAN23",
+  "endTime": {
+    "$date": "2023-05-01T20:19:00.000Z"
+  },
+  "minimumAmount": 500,
+  "productType": "Grocery",
+  "logo": "https://i.ibb.co/23kQcB9/ins3.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-04-14T15:27:12.915Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-14T15:29:43.955Z"
+  },
+  "discountType": {
+    "type": "percentage",
+    "value": 10
+  }
+},{
+  "_id": {
+    "$oid": "643970d0e58a401b6c62c753"
+  },
+  "status": "show",
+  "title": {
+    "en": "August Gift Voucher"
+  },
+  "couponCode": "AUGUST21",
+  "endTime": {
+    "$date": "2021-08-31T06:00:00.000Z"
+  },
+  "minimumAmount": 2000,
+  "productType": "Grocery",
+  "logo": "https://i.ibb.co/PDLPDHc/ins1.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-04-14T15:27:12.915Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-14T15:30:53.048Z"
+  },
+  "discountType": {
+    "type": "fixed",
+    "value": 100
+  }
+},{
+  "_id": {
+    "$oid": "643970d0e58a401b6c62c754"
+  },
+  "status": "show",
+  "title": {
+    "en": "Summer Gift Voucher"
+  },
+  "couponCode": "SUMMER21",
+  "endTime": {
+    "$date": "2023-12-20T00:56:00.000Z"
+  },
+  "minimumAmount": 1000,
+  "productType": "Cloths",
+  "logo": "https://i.ibb.co/4thS4Z1/ins2.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-04-14T15:27:12.915Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-14T15:30:36.685Z"
+  },
+  "discountType": {
+    "type": "percentage",
+    "value": 10
+  }
+}]
