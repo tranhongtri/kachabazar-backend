@@ -4,9 +4,9 @@
   },
   "status": "show",
   "title": {
-    "en": "RAMADAN23 TWO"
+    "en": "TODAYFRUIT23 TWO"
   },
-  "couponCode": "RAMADAN23TWO",
+  "couponCode": "TODAYFRUIT23TWO",
   "endTime": {
     "$date": "2023-05-31T20:19:00.000Z"
   },
@@ -30,9 +30,9 @@
   },
   "status": "show",
   "title": {
-    "en": "RAMADAN23"
+    "en": "TODAYFRUIT23"
   },
-  "couponCode": "RAMADAN23",
+  "couponCode": "TODAYFRUIT23",
   "endTime": {
     "$date": "2023-05-01T20:19:00.000Z"
   },
