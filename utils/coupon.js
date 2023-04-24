@@ -4,9 +4,9 @@ const coupons = [
 
     status: "show",
     title: {
-      en: "RAMADAN23 TWO",
+      en: "TODAYFRUIT23 TWO",
     },
-    couponCode: "RAMADAN23TWO",
+    couponCode: "TODAYFRUIT23TWO",
     endTime: "2023-05-31T20:19:00.000Z",
 
     minimumAmount: 1500,
@@ -23,9 +23,9 @@ const coupons = [
 
     status: "show",
     title: {
-      en: "RAMADAN23",
+      en: "TODAYFRUIT23",
     },
-    couponCode: "RAMADAN23",
+    couponCode: "TODAYFRUIT23",
     endTime: "2023-05-01T20:19:00.000Z",
 
     minimumAmount: 500,
